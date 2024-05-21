@@ -6,7 +6,6 @@
     "type": "git",
     "url": "https://github.com/brianmaierjr/my-lit-button"
   },
-  "entry point": "my-button.js",
   "main": "my-button.js",
   "module": "my-button.js",
   "type": "module",
