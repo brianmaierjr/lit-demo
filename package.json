@@ -1,6 +1,7 @@
 {
   "name": "@brianmaierjr/my-button",
   "description": "A simple button web component",
+  "version": "1.0.0",
   "author": "Brian Maier Jr. brimaidesigns@gmail.com",
   "repository": {
     "type": "git",
